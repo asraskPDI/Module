@@ -1,0 +1,7 @@
+template-file-path: ./vpc.yaml
+
+parameters:
+
+tags:
+    cost-center: '234567'
+    org: 'AWS'
